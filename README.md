@@ -32,8 +32,10 @@ primeiro develop
 
 ## to release
 
->> git flow release start nome_release
+>> git flow release start number_release
 
+## finish release
 
+>> git flow release finish number_release
 
 
