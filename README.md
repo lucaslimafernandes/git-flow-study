@@ -22,8 +22,17 @@ primeiro develop
 
 >> git flow feature start nome_feature
 
+## push
 
+>> git flow feature publish nome_feature
 
+## finish - merge
+
+>> git flow feature finish nome_feature
+
+## to release
+
+>> git flow release start nome_release
 
 
 
