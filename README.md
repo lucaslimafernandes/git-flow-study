@@ -18,6 +18,10 @@ primeiro develop
 >> git branch --list
 
 
+## criar feature
+
+>> git flow feature start nome_feature
+
 
 
 
